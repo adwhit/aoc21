@@ -6,31 +6,30 @@ Trying different languages
 2. Node
 3. Lua
 4. C
+5. Java
+6. Scheme
+7. Php
 
 Future: 
 
-Java
 C#
 Scala
 Php
 Dart
 Q
+
 Elixir
-
 C++
-
 Ruby
-
 Idris
 Haskell
+
 Go
 OCaml
 Deno
 Rust
-
-
 Clojure
-Scheme
+
 Julia
 Crystal
 Kotlin
